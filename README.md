@@ -1,4 +1,4 @@
-![Showtime List Create](https://github.com/AvinashBhargav/Online-Movie-Ticket-Booking-System-/assets/131337817/a3b1ec51-dd72-44e5-9237-b988e009c0ae)# Online-Movie-Ticket-Booking-System
+# Online-Movie-Ticket-Booking-System
 Used Technologies:Python,Django,SQLite
 
 This is a backend API for an online movie ticket booking system, developed using Django, Django REST Framework, and SQLite as the database.
